@@ -47,6 +47,10 @@ Technologies Used
 - HTML/CSS: For structuring and styling the user interface.
 - Razorpay Payment Gateway: For processing online payments.
 
+# Demo
+![Screenshot 2023-10-02 231533](https://github.com/Levanii26/E-Commerce/assets/131532268/c542adca-4d35-40e5-89a0-a19f1c5b0cd5)
+
+
 # Installation
 1.Clone the repository:
 
